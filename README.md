@@ -1,6 +1,6 @@
-# One Month Rails
+# Hatch.it
 
-This is my first web application for
-[*One Month Rails*](http://onemonthrails.com)
+Pinterest for Juggalos
+[*Hatch.it*](http://alexluprete.com)
 
-by [Mattan Griffel](http://mattangriffel.com)
+by [Alex Luprete](http://alexluprete.com)
